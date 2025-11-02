@@ -88,7 +88,7 @@ This problem, though simple, tests the robustness of deep learning models in rea
 1. Clone the repository:
 
 ```bash
-github.com/kindo-tk/Cat_vs_Dog_Classifier.git
+git clone https://github.com/kindo-tk/Cat_vs_Dog_Classifier.git
 ```
 
 2. Navigate to the project directory:
