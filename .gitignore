@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+
+# Streamlit cache
+.streamlit/
+
+
+
+# VS Code settings (optional)
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
