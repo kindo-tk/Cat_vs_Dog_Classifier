@@ -94,7 +94,7 @@ git clone https://github.com/kindo-tk/Cat_vs_Dog_Classifier.git
 2. Navigate to the project directory:
 
 ```bash
-cd cat-vs-dog-classifier
+cd Cat_vs_Dog_Classifier
 ```
 
 3. Create a virtual environment:
