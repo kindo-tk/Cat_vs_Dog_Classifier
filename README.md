@@ -157,7 +157,7 @@ For any inquiries or feedback, please contact:
 
 ---
 
-### Screenshots
+### Screenshots of the live app
 
 <img src="https://github.com/kindo-tk/images/blob/main/cat_vs_dog_classifier/Screenshot%20(52).png" width="600">
 <img src="https://github.com/kindo-tk/images/blob/main/cat_vs_dog_classifier/Screenshot%20(53).png" width="600">
